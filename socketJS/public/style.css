@@ -1,0 +1,14 @@
+.whats_app_container{
+    height: 100vh;
+    width: 100vw;
+    position:  fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chat_application{
+    height:50vh;
+    width: 60vw;
+    caret-color: aquamarine;
+}

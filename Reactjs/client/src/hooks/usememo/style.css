@@ -1,0 +1,26 @@
+.container{
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.inner-container{
+    width: 50vw;
+    height: 60vh;
+}
+
+.Update-name{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.btn {
+    width: 120px;
+    height: 50px;
+    border-radius: 16px;
+    font-weight: 600;
+    margin: 5px;
+}
